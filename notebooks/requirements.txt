@@ -1,0 +1,8 @@
+# 基础数据科学栈
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+
+# 量化与数据获取
+akshare>=1.10.0
